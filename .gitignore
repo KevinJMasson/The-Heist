@@ -1,0 +1,26 @@
+# You can add to this file (carefully) but there is no need to remove items unless you need to push that item to 
+# the repo. Remember one of your groupmates may need to ignore these files.
+
+# Mac file: stores folder attributes
+*.DS_Store
+
+# Executable files as they appear in different OSes 
+*.exe
+test_project
+./project
+
+# Artifacts that are produced by different targets
+
+# make docs artifacts -- we want to download and read these but we do not want to push a copy to the repo
+html/
+
+# make memcheck artifact -- may not be needed, 2021-10-09 investigating
+memcheck.xml
+
+# make coverage artifacts
+results.coverage
+coverage/
+# These files are only left behind if something goes wrong with the coverage target.
+*.gcda
+*.gcno
+*.gcov

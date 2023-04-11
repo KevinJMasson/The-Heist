@@ -1,0 +1,103 @@
+GALLERY
+You have entered the art gallery, it is full of a bunch of
+paintings from prestigious artists from across history.
+There is some sort of dinosaur skeleton exhibit with a loose bone.
+There is a bathroom in the back corner next to a door with
+the nameplate "BACK ROOM". There is also a grand door leading to
+the showcase. A small corgi rushes up to greet you. It has a key in
+its mouth and has the name Finn on its collar.
+END
+BATHROOM
+You have entered a bathroom. It definitely has seemed like it
+has seen cleaner days. You hear a man in a stall grumbling to himself.
+There is a large mirror on the wall.
+END
+BACK ROOM
+You are in a back room full of boxes and dust! The shelves
+are stocked full of cleaning supplies and replacement toilet paper.
+You can see something shining through a rusty grate in the middle of the
+floor. A young adult woman with red poofy hair pops awake at you entering.
+Her nametag reads "CHLOE".
+END
+OUTSIDE
+You are outside the art museum. There is a long stairway up
+to the front doors leading to the entryway. There is an odd man in a business suit and clown
+mask with a sour look and looking at his phone. There are also some
+hammers and other tools on the ground that must have been left there by
+some workers when the gallery was being renovated. Some scaffolding leads
+up to an exhaust vent.
+END
+ENTRYWAY
+You enter the entryway, which has a few doors, one that says
+"Security Room" and one that says "Admin Office" the admin office
+seems to be locked by a card reader. A guard stands next to a door that
+leads to the gallery. There is a cheap vending machine in the corner.
+END
+CORRIDOR
+You reach a short corridor and see the secret room, this must
+be where they are keeping the painting! However you notice a blinking
+device on the wall. You know better than to proceed before defusing this
+obvious trap.
+END
+SECRET ROOM
+At last you are in the same room as the fabled Roly Poly
+Formuoli! You appear to have bested the last of the museums defenses!
+END
+SECURITY ROOM
+You pop into the security office of the museum, there doesn't
+appear to be any guards in at the moment, luckily. There is a table with
+a knife, some laxatives, and an ice cream that surprisingly isn't melting?
+There is also a security console with cameras overlooking the art with a
+panel to input some sort of code.
+END
+ADMIN OFFICE
+You enter the admin office and you see some hairspray and a
+paper with some sort of access codes on it. As well there is Natalia in the room.
+Did not think that one through! She is completely focused on her phone.
+Maybe you can explain your way out of this?
+END
+SHOWCASE
+You enter the grand showcase showing off the Roly Poly
+Formuoli! But to a trained eye you can tell that it is in fact fake due to
+the cheap flimsy paper (easily torn, cut or ripped) it is printed on. The
+real painting is hidden somewhere! There are security cameras covering every corner.
+From your research you know that these are remotely monitored by the local police
+department.
+END
+VENT
+You enter the open vent. It is rather dusty in here. You
+notice a room ahead with security guard uniforms. That must be the
+security room! You also notice a powerful magnet stuck to the metal wall.
+END
+FINN
+Woof! (Well howdy, fancy meeting you! I grabbed this bone
+but it seems too hard to chew on. I'm too stubborn to give it up, though)
+END
+TOILET MAN
+Oh geez buddy you came just at the right time! This is...uh...
+a bit embarrassing but I just happened to notice there's no toilet
+paper in here. Don't suppose you have any to lend a man in trying times?
+END
+MASKED MAN
+Geez how can those guys be late every time, I have no idea
+how i'm going to steal this pain- oh hey there b-buddy! You weren't
+listenin' to me just now were ya? Well forget about it. Gee it sure is hot
+out here though, could really use something to cool me down.
+END
+CHLOE
+H-Hi there! I didn't expect anyone else to be working today!
+I'm new so I haven't gotten the chance to see too many other workers!
+Um hey if I can ask a favor, sooo I need to go clean the Ladies' washroom
+but the plunger is in the Men's. I saw someone go in there a long time ago
+and its been over an hour- gee I sure hope he's okay. Can you go in there
+and look for it for me?
+END
+GUARD
+Welcome to our lovely art gallery here. Now don't go trying
+any funny business! I hear there is an art thief planning to come here!
+END
+NATALIA
+"Hey uh, I can explai-" "Yeah listen, love, I'm very busy
+here so can you keep it down. Just take whatever you need and leave"
+(I guess she won't be an issue.)
+END
